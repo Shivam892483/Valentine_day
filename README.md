@@ -21,6 +21,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository
 2. open [Netlify website](https://www.netlify.com)
+3. create account with github
 3. Import github repository and create your link 
 
 Now you're ready to ask the big question!
