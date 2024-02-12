@@ -89,7 +89,7 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://graph.org/file/81219806e721b920676c9.mp4"
+      href="https://graph.org/file/067fa5a3ee0aa4f738e98.jpg"
       target="__blank"
     >
      click created with {" "}
