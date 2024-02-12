@@ -89,13 +89,13 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      src="https://graph.org/file/81219806e721b920676c9.mp4"
+      href="https://github.com/Xeven777/valentine"
       target="__blank"
     >
-     click created with {" "}
+      click Made with{" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
-    <a/>
+    </a>
   );
 };
