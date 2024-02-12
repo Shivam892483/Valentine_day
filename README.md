@@ -20,14 +20,14 @@ This project is built with love using React and Vite. It features a cute and int
 To get started with this project, follow these steps:
 
 1. Clone the repository
-2. Install the dependencies with `npm/pnpm/bun install`
-3. Start the development server with `npm/pnpm/bun run dev`
+2. open [Netlify website](https://www.netlify.com)
+3. Import github repository and create your link 
 
 Now you're ready to ask the big question!
 
 ## 💕 Made with Love 💕
 
-This project was made with love by [Anish](https://github.com/xeven777). Feel free to use it to ask your own special someone to be your Valentine!
+This project was made with love by [Sʜɪᴠᴀᴍ](https://github.com/Shivam892483). Feel free to use it to ask your own special someone to be your Valentine!
 
 ## 💌 Feedback and Contributions 💌
 
@@ -35,4 +35,4 @@ Feedback and contributions are always welcome! Feel free to open an issue or sub
 
 Happy Valentine's Day! 💘
 ---
-<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
+<img src="https://widgetbite.com/stats/shivam892483" alt="watching_count" />
