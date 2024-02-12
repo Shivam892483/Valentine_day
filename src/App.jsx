@@ -89,10 +89,10 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Shivam892483/Valentine_day"
+      href="https://bit.ly/3SSLRGu"
       target="__blank"
     >
-      I love you{" "}
+     click created with {" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
