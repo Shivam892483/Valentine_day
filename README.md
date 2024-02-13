@@ -26,6 +26,9 @@ To get started with this project, follow these steps:
 
 Now you're ready to ask the big question!
 
+## you can change change png/picture 
+open src/assets/
+
 ## 💕 Made with Love 💕
 
 This project was made with love by [Sʜɪᴠᴀᴍ](https://github.com/Shivam892483). Feel free to use it to ask your own special someone to be your Valentine!
