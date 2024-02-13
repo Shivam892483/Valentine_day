@@ -1,6 +1,6 @@
 import { useState } from "react";
 import lovesvg from "./assets/All You Need Is Love SVG Cut File.svg";
-import lovesvg2 from "./assets/photo_2024-02-13_00-10-14.jpg";
+import lovesvg2 from "./assets/—Pngtree—valentine gifts chocolate teddy bear_14340988.png";
 
 export default function Page() {
   const [noCount, setNoCount] = useState(0);
