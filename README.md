@@ -7,8 +7,6 @@ Welcome to the most adorable project you've ever seen! This is a special React a
 ## 💖 What's Inside? 💖
 live site :- [click here](https://valentineeday.netlify.app)
 
-This project is built with love using React and Vite. It features a cute and interactive UI that playfully nudges the user towards saying "Yes" to being your Valentine.
-
 ## 🎁 Features 🎁
 
 - Cute and playful animations
@@ -26,7 +24,7 @@ To get started with this project, follow these steps:
 
 Now you're ready to ask the big question!
 
-## you can change change png/picture 
+## 😍 you can change change png / pic
 open src/assets/
 
 ## 💕 Made with Love 💕
